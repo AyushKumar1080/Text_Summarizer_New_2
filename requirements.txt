@@ -1,6 +1,6 @@
 flask
 transformers
-tensorflow
+intel-tensorflow
 torch
 jinja2
 gunicorn
